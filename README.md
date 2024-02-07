@@ -1,4 +1,4 @@
-# Hola, soy Lucas Perez! 👋🏻
+# Hola, me llamo Lucas Perez y soy Desarrollador Full-Stack 👋🏻
 ## Desarrollador Full-Stack
 
 
