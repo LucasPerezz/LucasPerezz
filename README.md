@@ -1,3 +1,21 @@
+# Hola, soy Lucas Perez! 👋🏻
+## Desarrollador Full-Stack
+
+
+<image src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+
+
+
+## 🎯 Sobre mi: 
+
+Soy un entusiasta del aprendizaje constante y siempre estoy buscando nuevas formas de mejorar mis habilidades. Mi mentalidad de crecimiento me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y adoptar nuevas herramientas para mejorar mi eficiencia como desarrollador.
+
+Aunque no tengo experiencia laboral formal, he trabajado en varios proyectos personales que demuestran mi capacidad para enfrentar desafíos y encontrar soluciones creativas.
+
+Me esfuerzo por seguir las mejores prácticas de desarrollo de software y asegurarme de que mis códigos sean limpios, eficientes y escalables. La calidad del código es una prioridad para mí, incluso en entornos de desarrollo personal.
+
+Mi objetivo a corto plazo es adquirir experiencia laboral en un entorno profesional para continuar desarrollando mis habilidades y contribuir al éxito de un equipo
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_lucasprzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasperez26) 
