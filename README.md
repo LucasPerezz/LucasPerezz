@@ -1,4 +1,4 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mi nombre es Lucas Perez===================================================================================================================================Desarrollador Full Stack------------------------Soy un entusiasta del aprendizaje constante y siempre estoy buscando nuevas formas de mejorar mis habilidades. Mi mentalidad de crecimiento me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y adoptar nuevas herramientas para mejorar mi eficiencia como desarrollador. Aunque no tengo experiencia laboral formal, he trabajado en varios proyectos personales que demuestran mi capacidad para enfrentar desafíos y encontrar soluciones creativas. Me esfuerzo por seguir las mejores prácticas de desarrollo de software y asegurarme de que mis códigos sean limpios, eficientes y escalables. La calidad del código es una prioridad para mí, incluso en entornos de desarrollo personal. Mi objetivo a corto plazo es adquirir experiencia laboral en un entorno profesional para continuar desarrollando mis habilidades y contribuir al éxito de un equipo* 🌍  Actualmente vivo en Buenos Aires* 🖥️  Mira mi portfolio aqui [Lucas Perez - Portfolio](http://lucastomasperez.vercel.app)* ✉️  Puedes contactarme en [perezlucas2609@gmail.com](mailto:perezlucas2609@gmail.com)* 🧠  Estoy aprendiendo Next.Js
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Perez===================================================================================================================================Desarrollador Full Stack------------------------Soy un entusiasta del aprendizaje constante y siempre estoy buscando nuevas formas de mejorar mis habilidades. Mi mentalidad de crecimiento me impulsa a mantenerme actualizado con las últimas tendencias tecnológicas y adoptar nuevas herramientas para mejorar mi eficiencia como desarrollador. Aunque no tengo experiencia laboral formal, he trabajado en varios proyectos personales que demuestran mi capacidad para enfrentar desafíos y encontrar soluciones creativas. Me esfuerzo por seguir las mejores prácticas de desarrollo de software y asegurarme de que mis códigos sean limpios, eficientes y escalables. La calidad del código es una prioridad para mí, incluso en entornos de desarrollo personal. Mi objetivo a corto plazo es adquirir experiencia laboral en un entorno profesional para continuar desarrollando mis habilidades y contribuir al éxito de un equipo* 🌍  I'm based in Buenos Aires* 🖥️  See my portfolio at [Lucas Perez - Portfolio](http://lucastomasperez.vercel.app)* ✉️  You can contact me at [perezlucas2609@gmail.com](mailto:perezlucas2609@gmail.com)* 🧠  I'm learning Next.Js
 
 ### Skills
 
@@ -9,7 +9,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ### Badges
 
-<b>Mis Estadisticas de Github</b>
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/LucasPerezz"><img src="https://github-readme-stats.vercel.app/api?username=LucasPerezz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LucasPerezz's GitHub stats" /></a>
 
@@ -19,7 +19,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 <a href="https://github.com/LucasPerezz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPerezz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Mejores repositorios</b>
+<b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/LucasPerezz/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPerezz&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LucasPerezz/alaskaIndumentaria-perez" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasPerezz&repo=alaskaIndumentaria-perez&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
